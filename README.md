@@ -2,7 +2,7 @@
 
 ## SPA - Versão Web
 
-![HomePage]<img src="demo/Home-pwa.png" width=500 />
+![HomePage](<img src="demo/Home-pwa.png" width=500 />)
 ![CadastroPage](demo/Cad-pwa.png)
 
 ## Aplicativo - Versão Android
