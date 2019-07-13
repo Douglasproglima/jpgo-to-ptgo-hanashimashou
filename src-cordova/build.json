@@ -1,0 +1,7 @@
+{
+  "android": {
+    "debug": {
+      "buildFlag": ["-UseModernBuildSystem=0"]
+    }
+  }
+}
