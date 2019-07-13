@@ -2,17 +2,14 @@
 
 ## SPA - Versão Web
 
-![HomePage](Capturar.png)
-![HomePage](Capturar.png)
+![HomePage](demo/Home-pwa.png)
+![CadastroPage](demo/Cad-pwa.png)
 
 ## Aplicativo - Versão Android
 
-![HomePage](Capturar.png)
-![HomePage](Capturar.png)
-![HomePage](Capturar.png)
-![HomePage](Capturar.png)
-![HomePage](Capturar.png)
-
+![MenuApkPage](demo/Menu-apk.jpg)
+![HomeApkPage](demo/Home-apk.jpg)
+![CadApkPage](demo/Cad-apk.jpg)
 
 Projeto de uma SPA/App Android desenvolvido com Quasar Framework + Speech API para capturar aúdio e transformar em texto, ou utilizar um texto como base para a aplicação e emitir um aúdio.
 
